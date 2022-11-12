@@ -1,0 +1,19 @@
+﻿
+Validacion
+buscador valida si ya existe el indice -----------ok
+auto incremento ---------------------ok
+
+regiones al codig--------------------ok
+
+archivo crud que implemento en cada metodo ?--------------------------ok
+
+buscador valida si ya existe retorne objeto mostra datos lista relacionada 
+
+
+Se realizo:
+1- Se agrgaron regiones
+2- Se agrego try catch para evitar error cuando escriben letras en las opciones de switch case
+3- Se inicializo la variable opc en cero dentro de do while, para que se limpie la ultima opcion seleccionada.
+4- Se agrega funcion validarEdit, para que se valide el id ingresado, si existe continua para editar de lo contrario se envia mensaje de error.
+5- se gargan validaciones con if a eliminar y mostrar, para que se valide si existe el id ingresado
+6- Se validan las nuavas creaciones para que el id no se repita con autoincremento.

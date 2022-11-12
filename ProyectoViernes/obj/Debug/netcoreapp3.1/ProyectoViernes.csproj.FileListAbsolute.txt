@@ -1,0 +1,28 @@
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.csproj.AssemblyReference.cache
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.AssemblyInfoInputs.cache
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.AssemblyInfo.cs
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.csproj.CoreCompileInputs.cache
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.exe
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.deps.json
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.runtimeconfig.json
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.runtimeconfig.dev.json
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.dll
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.pdb
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.dll
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.pdb
+F:\Fedesoft\8_Csharp\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.genruntimeconfig.cache
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.exe
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.deps.json
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.runtimeconfig.json
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.runtimeconfig.dev.json
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.dll
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\bin\Debug\netcoreapp3.1\ProyectoViernes.pdb
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.csproj.AssemblyReference.cache
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.AssemblyInfoInputs.cache
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.AssemblyInfo.cs
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.dll
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.pdb
+C:\Users\Andrei Daza\Documents\c#\Clase03-ProyectoViernes\ProyectoViernes\obj\Debug\netcoreapp3.1\ProyectoViernes.genruntimeconfig.cache
